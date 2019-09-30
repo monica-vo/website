@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Cookie|Poiret+One|Special+Elite|Turret+Road&display=swap');
+
+/*Below the list of fonts I can use because already imported above*/
+/* 
+
+    font-family: 'Turret Road', cursive;
+
+    font-family: 'Cookie', cursive;
+
+    font-family: 'Poiret One', cursive;
+
+    font-family: 'Special Elite', cursive;
+
+*/
+
+.projects{
+    background-image: url('C:\Users\MONIK\Desktop\projects\react\website\src\components\img\bgImg.png');
+    height: 80vh;
+    background-color:#008E74;
+    background-size: cover;
+    background-repeat: 'no-repeat';
+    background-position: bottom; /*This changes the wave flow in the image */
+}
+
+.links{
+    font-family: 'Turret Road', cursive;
+    display: flex;
+    flex-direction: row;
+    font-size: 3vh;
+    margin-left: 20vh;
+    margin-right: 20vh;
+    margin-top: 30vh;
+}
+
+a{
+    text-decoration-line: none;
+    color: lightseagreen;
+}
+
+h1{
+    margin:0 auto;
+    color: white;
+    padding-top: 18vh;
+    text-align: center;
+    font-size: 12vh;
+    font-family: 'Turret Road', cursive;
+
+}
+
+h3{
+    font-family: 'Turret Road', cursive;
+    font-size: 2rem;
+    color: white;
+    text-align: center;
+    padding-top: 1vh;
+
+}
+
+/* .section{
+    height: 50vh;
+} */

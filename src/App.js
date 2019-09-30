@@ -30,3 +30,5 @@ class App extends Component {
 }
  
 export default App;
+
+// En caso de problemas o dudas con el router visitar https://www.golangprograms.com/how-to-create-simple-react-router-to-navigate-multiple-pages.html 

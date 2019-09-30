@@ -31,7 +31,7 @@ h3{
 header{
     background-image: url("C:\Users\MONIK\Desktop\projects\react\website\src\components\img\bgImg.png");
     height: 80vh;
-    background-color: lightseagreen;
+    background-color: #355c7d;
     background-size: cover;
     background-repeat: 'no-repeat';
     background-position: bottom; /*This changes the wave flow in the image */
